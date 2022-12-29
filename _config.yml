@@ -2,7 +2,7 @@
 title: E-commerce Website
 description: A virtual market place that allows users buy and sell goods and digital products with ease.
 baseurl: "/E-commerce_website" # the subpath of your site, e.g. /blog
-url: "https://ecommercewebsite.github.io" # the base hostname & protocol for your site
+url: "https://danielofodile.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
